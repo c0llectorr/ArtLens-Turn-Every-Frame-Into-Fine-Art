@@ -19,7 +19,7 @@ ArtLens leverages cutting-edge AI (TensorFlow Lite, Stable Diffusion) and comput
 | **Tools**        | Git, Figma, Android Studio/Xcode, Postman                                    |
 
 ## Status  
-🔧 **In development** (Fall 2025 – Summer 2026). Live demo and documentation coming soon!  
+ **In development** (Fall 2025 – Summer 2026). Live demo and documentation coming soon!  
 
 ## Team  
 - Muhammad Ahmad  
